@@ -1,0 +1,32 @@
+[
+  {
+    "monto": 10.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "EUR",
+    "montoConvertido": 9.391
+  },
+  {
+    "monto": 10.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "GBP",
+    "montoConvertido": 8.099
+  },
+  {
+    "monto": 25.0,
+    "monedaOrigen": "CLP",
+    "monedaDestino": "MXN",
+    "montoConvertido": 0.44625000000000004
+  },
+  {
+    "monto": 2.0,
+    "monedaOrigen": "USD",
+    "monedaDestino": "CLP",
+    "montoConvertido": 1913.4036
+  },
+  {
+    "monto": 20.0,
+    "monedaOrigen": "EUR",
+    "monedaDestino": "GBP",
+    "montoConvertido": 17.25
+  }
+]
